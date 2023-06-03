@@ -1,0 +1,201 @@
+[
+  {
+    "full_name": "Yakir Oren",
+    "email_address": "yakiroren@gmail.com ",
+    "workdays_shifts_weight": 1,
+    "weekend_days_shifts_weight": 1,
+    "holidays_shifts_weight": 1,
+    "constraints": []
+  },
+  {
+    "full_name": "Michael Ben Yosef",
+    "email_address": "mishico5@gmail.com ",
+    "workdays_shifts_weight": 1,
+    "weekend_days_shifts_weight": 1,
+    "holidays_shifts_weight": 1,
+    "constraints": []
+  },
+  {
+    "full_name": "Yarden Dolev",
+    "email_address": "yardend123@gmail.com",
+    "workdays_shifts_weight": 1,
+    "weekend_days_shifts_weight": 1,
+    "holidays_shifts_weight": 1,
+    "constraints": []
+  },
+  {
+    "full_name": "Sahar Shaul",
+    "email_address": "Saharshaul2@gmail.com",
+    "workdays_shifts_weight": 1,
+    "weekend_days_shifts_weight": 1,
+    "holidays_shifts_weight": 1,
+    "constraints": [
+      {"start": "2023-05-01", "end": "2023-05-03"},
+      "2023-05-12",
+      "2023-05-19",
+      {"start": "2023-05-25", "end": "2023-05-27"},
+      "2023-05-31",
+      {"start": "2023-06-26", "end": "2023-06-30"}
+    ]
+  },
+  {
+    "full_name": "Rotem Licht Petran",
+    "email_address": "Rolp1607@gmail.com",
+    "workdays_shifts_weight": 1,
+    "weekend_days_shifts_weight": 1,
+    "holidays_shifts_weight": 1,
+    "constraints": [
+      {"start": "2023-05-01", "end": "2023-05-03"},
+      "2023-05-19",
+      {"start": "2023-05-27", "end": "2023-05-29"},
+      {"start": "2023-05-22", "end": "2023-06-30"}
+    ]
+  },
+  {
+    "full_name": "Alwin Priven",
+    "email_address": "alpriven@gmail.com",
+    "workdays_shifts_weight": 1,
+    "weekend_days_shifts_weight": 1,
+    "holidays_shifts_weight": 1,
+    "constraints": [
+      "2023-05-23",
+      "2023-06-08",
+      "2023-06-09"
+    ]
+  },
+  {
+    "full_name": "Bentzi Slater",
+    "email_address": "bentzislater@gmail.com",
+    "workdays_shifts_weight": 1,
+    "weekend_days_shifts_weight": 1,
+    "holidays_shifts_weight": 1,
+    "constraints": [
+      {"start": "2023-05-22", "end": "2023-06-30"}
+    ]
+  },
+  {
+    "full_name": "Jonathan Adini",
+    "email_address": "jonathan.adini@gmail.com",
+    "workdays_shifts_weight": 0.3,
+    "weekend_days_shifts_weight": 0.3,
+    "holidays_shifts_weight": 0.3,
+    "constraints": [
+      {"start": "2023-06-01", "end": "2023-06-05"},
+      {"start": "2023-06-27", "end": "2023-06-30"}
+    ]
+  },
+    {
+    "full_name": "Yinon Lalum",
+    "email_address": "yinon.lalum@gmail.com",
+    "workdays_shifts_weight": 1,
+    "weekend_days_shifts_weight": 1,
+    "holidays_shifts_weight": 1,
+    "constraints": []
+  },
+    {
+    "full_name": "Amit Schendel",
+    "email_address": "amitschendel@gmail.com",
+    "workdays_shifts_weight": 0.3,
+    "weekend_days_shifts_weight": 0.3,
+    "holidays_shifts_weight": 0.3,
+    "constraints": []
+  },
+    {
+    "full_name": "Itay Finci",
+    "email_address": "itay@finci.org",
+    "workdays_shifts_weight": 1,
+    "weekend_days_shifts_weight": 1,
+    "holidays_shifts_weight": 1,
+    "constraints": []
+  },
+    {
+    "full_name": "Anna Pakman",
+    "email_address": "Annapakman20000@gmail.com",
+    "workdays_shifts_weight": 1,
+    "weekend_days_shifts_weight": 1,
+    "holidays_shifts_weight": 1,
+    "constraints": [
+      {"start": "2023-05-04", "end": "2023-05-06"},
+      {"start": "2023-05-18", "end": "2023-05-20"},
+      {"start": "2023-05-25", "end": "2023-05-27"},
+      "2023-05-1",
+      "2023-05-19",
+      "2023-06-06",
+      {"start": "2023-06-09", "end": "2023-06-17"}
+    ]
+  },
+    {
+    "full_name": "Almog Shpinner",
+    "email_address": "person@gmail.com",
+    "workdays_shifts_weight": 1,
+    "weekend_days_shifts_weight": 1,
+    "holidays_shifts_weight": 1,
+    "constraints": []
+  },
+    {
+    "full_name": "Michael Shlitin",
+    "email_address": "person@gmail.com",
+    "workdays_shifts_weight": 1,
+    "weekend_days_shifts_weight": 1,
+    "holidays_shifts_weight": 1,
+    "constraints": [
+      {"start": "2023-05-25", "end": "2023-05-27"},
+      {"start": "2023-05-17", "end": "2023-05-21"}
+    ]
+  },
+    {
+    "full_name": "Ofek Hemo",
+    "email_address": "person@gmail.com",
+    "workdays_shifts_weight": 1,
+    "weekend_days_shifts_weight": 1,
+    "holidays_shifts_weight": 1,
+    "constraints": []
+  },
+    {
+    "full_name": "Hadar Simhi",
+    "email_address": "hadar18500@gmail.com",
+    "workdays_shifts_weight": 1,
+    "weekend_days_shifts_weight": 1,
+    "holidays_shifts_weight": 1,
+    "constraints": []
+  },
+    {
+    "full_name": "Ron Abulafia",
+    "email_address": "person@gmail.com",
+    "workdays_shifts_weight": 1,
+    "weekend_days_shifts_weight": 1,
+    "holidays_shifts_weight": 1,
+    "constraints": []
+  },
+    {
+    "full_name": "Shany Lustig",
+    "email_address": "Shanlus99@gmail.com",
+    "workdays_shifts_weight": 0.3,
+    "weekend_days_shifts_weight": 0.3,
+    "holidays_shifts_weight": 0.3,
+    "constraints": [
+      {"start": "2023-05-04", "end": "2023-05-14"},
+      {"start": "2023-06-04", "end": "2023-06-07"},
+      {"start": "2023-05-25", "end": "2023-05-27"}
+    ]
+  },
+    {
+    "full_name": "Ori Laish",
+    "email_address": "person@gmail.com",
+    "workdays_shifts_weight": 1,
+    "weekend_days_shifts_weight": 1,
+    "holidays_shifts_weight": 1,
+    "constraints": []
+  },
+  {
+    "full_name": "Guy Heroshovski",
+    "email_address": "person@gmail.com",
+    "workdays_shifts_weight": 1,
+    "weekend_days_shifts_weight": 1,
+    "holidays_shifts_weight": 1,
+    "constraints": [
+      {"start": "2023-05-07", "end": "2023-05-08"},
+      "2023-05-20"
+    ]
+  }
+]

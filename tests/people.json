@@ -1,0 +1,57 @@
+[
+  {
+    "full_name": "Person1",
+    "email_address": "person1@gmail.com",
+    "workdays_shifts_weight": 1,
+    "weekend_days_shifts_weight": 1,
+    "holidays_shifts_weight": 1
+  },
+  {
+    "full_name": "Person2",
+    "email_address": "person2@gmail.com",
+    "workdays_shifts_weight": 1,
+    "weekend_days_shifts_weight": 1,
+    "holidays_shifts_weight": 1
+  },
+  {
+    "full_name": "Person3",
+    "email_address": "person3@gmail.com",
+    "workdays_shifts_weight": 1,
+    "weekend_days_shifts_weight": 1,
+    "holidays_shifts_weight": 1
+  },
+  {
+    "full_name": "Person4",
+    "email_address": "person4@gmail.com",
+    "workdays_shifts_weight": 1,
+    "weekend_days_shifts_weight": 1,
+    "holidays_shifts_weight": 1
+  },
+  {
+    "full_name": "Person5",
+    "email_address": "person5@gmail.com",
+    "workdays_shifts_weight": 1,
+    "weekend_days_shifts_weight": 1,
+    "holidays_shifts_weight": 1
+  },{
+    "full_name": "Person6",
+    "email_address": "person6@gmail.com",
+    "workdays_shifts_weight": 1,
+    "weekend_days_shifts_weight": 1,
+    "holidays_shifts_weight": 1
+  },
+  {
+    "full_name": "Person7",
+    "email_address": "person1@gmail.com",
+    "workdays_shifts_weight": 1,
+    "weekend_days_shifts_weight": 1,
+    "holidays_shifts_weight": 1
+  },
+  {
+    "full_name": "Person8",
+    "email_address": "person8@gmail.com",
+    "workdays_shifts_weight": 1,
+    "weekend_days_shifts_weight": 1,
+    "holidays_shifts_weight": 1
+  }
+]
